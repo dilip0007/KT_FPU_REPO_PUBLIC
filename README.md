@@ -1,3 +1,5 @@
-# KT_FPU_REPO_PUBLIC
-KT_FPU_REPO_PUBLIC
-editing first time 
+# gitops-demo
+gitops-demo
+Please follow my latest YouTube video: https://www.youtube.com/watch?v=mhMMNl8mgbY
+testhn
+xyzfbjfhfj
