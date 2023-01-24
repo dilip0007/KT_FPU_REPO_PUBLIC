@@ -7,6 +7,6 @@ ggann
     n
   
  
-s
+sn
  bb
    ns
