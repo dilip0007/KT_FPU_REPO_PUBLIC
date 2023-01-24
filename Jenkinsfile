@@ -26,7 +26,7 @@ pipeline {
 
         stage('Delete Docker Images'){
             steps {
-                sh "pwd"
+                sh "pwd;ls"
               
                 
             }
