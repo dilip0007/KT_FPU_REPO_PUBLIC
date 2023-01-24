@@ -6,9 +6,10 @@ pipeline {
         }
 
     stages {
-        stage('Build') {
+        stage('testing') {
             steps {
                 sh "echo hi"
+                sh "touch fpu"
                 
             }
         }
